@@ -6,6 +6,7 @@
   "keywords": [],
   "main": "build/index.js",
   "types": "build/index.d.ts",
+  "type": "module",
   "exports": {
     ".": "./build/index.js",
     "./validateArgs/program": "./build/validateArgs/transformProgram.js",
